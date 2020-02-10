@@ -1,0 +1,194 @@
+@font-face {
+  font-family: 'GreatVibes-Regular';
+  src: url("fonts/GreatVibes-Regular.ttf"); }
+@font-face {
+  font-family: 'KaushanScript-Regular';
+  src: url("fonts/KaushanScript-Regular.ttf"); }
+@font-face {
+  font-family: 'Muli-Bold';
+  src: url("fonts/Muli-Bold.ttf"); }
+@font-face {
+  font-family: 'FjallaOne-Regular';
+  src: url("fonts/FjallaOne-Regular.ttf"); }
+.container {
+  width: 1140px;
+  margin: 0 auto; }
+
+.col {
+  padding-left: 0px;
+  padding-right: 0px; }
+
+.main_title {
+  font-family: 'Muli-Bold';
+  display: inline-block;
+  font-size: 1.75rem;
+  margin-left: 30px;
+  position: relative;
+  top: 28px;
+  text-shadow: 1px 2px #883b08;
+  color: #e38a4a; }
+  .main_title .reach {
+    color: #a73225; }
+
+h2 {
+  font-family: 'FjallaOne-Regular';
+  text-shadow: 2px 2px 2px #1b1b1b;
+  margin-top: 30px;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  text-align: center;
+  color: #fee682;
+  font-weight: 700; }
+
+body {
+  background: #fefedc; }
+
+.happy_tea_day {
+  margin-top: 50px;
+  margin-bottom: 100px; }
+
+.column-left {
+  display: block;
+  background: #f05962;
+  border-radius: 4px;
+  box-shadow: 7px 7px 9px #393834; }
+  .column-left .rectangle1 {
+    height: 4px;
+    width: 60%;
+    background: #ffd24f;
+    margin: 0 auto;
+    border-radius: 50%; }
+  .column-left .display {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-right: 10px; }
+    .column-left .display h6 {
+      color: #500a49;
+      font-weight: 600; }
+    .column-left .display p {
+      display: inline-block;
+      margin-bottom: 0; }
+
+.rectangle2 {
+  width: 60%;
+  height: 2px;
+  background: #fee682;
+  margin: 0 auto;
+  border-radius: 50%; }
+
+.rectangle-last {
+  width: 60%;
+  height: 2px;
+  background: #fee682;
+  margin: 0 auto;
+  margin-bottom: 11px;
+  border-radius: 50%; }
+
+.navbar {
+  margin: 0 auto; }
+
+.navbar-next {
+  margin: 0 auto;
+  border-style: none; }
+  .navbar-next .next_prev {
+    background: #f05962; }
+  .navbar-next .next_prev:hover {
+    background: #f05962; }
+  .navbar-next .page {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    padding: .5rem .85rem;
+    background: #fee682;
+    color: #f05962; }
+  .navbar-next .page:hover {
+    background: #e89719;
+    color: #f0f1ec; }
+
+.column-right {
+  background: #fee682;
+  padding: 0px 10px;
+  border-radius: 4px;
+  box-shadow: 7px 7px 9px #393834; }
+  .column-right form {
+    margin-top: 30px; }
+
+h3 {
+  padding-top: 30px;
+  margin-top: 30px;
+  text-align: center;
+  color: #f05962;
+  font-size: 2rem;
+  font-family: 'KaushanScript-Regular'; }
+
+.your_name {
+  width: 70%;
+  margin-top: 30px;
+  border: #fff; }
+
+.required {
+  color: red; }
+
+.your_class {
+  width: 70%;
+  margin-top: 30px;
+  border: #fff; }
+
+.your_course {
+  width: 70%;
+  margin-top: 30px;
+  border: #fff; }
+
+.your_wishes {
+  width: 70%;
+  margin-top: 30px;
+  border: #fff; }
+
+.name-group {
+  margin-top: 30px;
+  border-radius: 4px; }
+  .name-group .name-prepend {
+    width: 125px;
+    background: #f05962;
+    color: #fff;
+    border-style: none; }
+
+.send_to_teacher {
+  display: inline-block;
+  background: #f05962;
+  margin-top: 50px;
+  padding: 10px 30%;
+  text-transform: uppercase;
+  font-size: 20px;
+  text-align: center;
+  box-shadow: 3px 3px 3px #2e2d2b; }
+
+.send_to_teacher:hover {
+  background: #e89719;
+  box-shadow: 3px 3px 4px #461b03; }
+
+.img-footer {
+  text-align: center; }
+  .img-footer img {
+    width: 61%; }
+
+.donater {
+  padding-bottom: 30px; }
+  .donater img {
+    margin-left: 10px; }
+
+.title-footer {
+  color: #f05962; }
+
+.designer {
+  color: #f05962; }
+  .designer img {
+    margin-left: 10px; }
+  .designer .pat {
+    color: #f05962; }
+  .designer a {
+    text-decoration: underline; }
+  .designer a:hover {
+    color: #d64d56; }
+
+/*# sourceMappingURL=style.css.map */
